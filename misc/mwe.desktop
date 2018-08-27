@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Qt;
+Comment=Minimal working example for QtWebEngine
+Exec=mwe
+Name=MWE
+Icon=mwe
+Terminal=false
+Type=Application
